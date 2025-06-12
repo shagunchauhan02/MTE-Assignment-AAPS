@@ -1,51 +1,29 @@
-# MTE-Assignment-AAPS
-This repository contains solutions to the DSA (Data Structures and Algorithms) MTE Assignment for the 6th Semester.
+# 📚 MTE-Assignment-AAPS
 
-✨ Topics Covered:
-Prefix Sum Arrays and Range Queries
+This repository contains well-structured solutions to the **Data Structures and Algorithms (DSA)** MTE Assignment for the 6th Semester.
 
-Equilibrium Index in Arrays
+## ✨ Topics Covered
 
-Splitting Arrays with Equal Sum
+- ✅ Prefix Sum Arrays & Range Queries  
+- 📍 Equilibrium Index in Arrays  
+- ✂️ Splitting Arrays with Equal Sum  
+- 🔄 Sliding Window Technique  
+- 🔡 Longest Substring Without Repeating Characters  
+- 🔁 Palindromic Substrings & Strings  
+- 🔗 Linked List Problems (Merge, Intersection, Remove Node)  
+- 🧱 Stack, Queue & Deque Based Problems  
+- 🧮 Priority Queue Applications  
+- 🧠 Bit Manipulation Concepts  
+- 📈 Kadane’s Algorithm (Max Subarray)  
+- 🧩 Dynamic Programming Basics  
+- 📊 Histogram-Based Problems  
+- 🔎 Two Pointers & Hashing Techniques  
+- 🔁 Generating Subsets & Permutations  
+- 🔢 Top K Frequent Elements  
+- 🌧️ Trapping Rain Water Problem  
+- ⚡ Maximum XOR of Two Numbers  
 
-Sliding Window Technique
+## 🛠️ Language Used
+- **C++** (with Standard Template Library - STL)
 
-Longest Substring Without Repeating Characters
 
-Palindromic Substrings and Strings
-
-Linked List Problems (Merge, Intersection, Remove Node)
-
-Stack, Queue, and Deque Based Problems
-
-Priority Queue Applications
-
-Bit Manipulation Concepts
-
-Kadane’s Algorithm (Maximum Subarray)
-
-Dynamic Programming Basics
-
-Histogram-Based Problems
-
-Two Pointers and Hashing Techniques
-
-Generating Subsets and Permutations
-
-Top K Frequent Elements
-
-Trapping Rain Water Problem
-
-Maximum XOR of Two Numbers
-
-🛠️ Languages Used:
-C++
-
-(With Standard Template Library - STL)
-
-⚡ How to Run:
-Clone the repository.
-
-Compile the C++ files using any standard compiler (e.g., g++, clang++).
-
-Run the executable to see outputs.
